@@ -1,0 +1,21 @@
+kind,variable,value,unit,source_or_formula,status,caveat
+fact,federal_budget_2026,524.540138,EUR bn,BMF / HG 2026,confirmed,Core federal budget
+fact,investment_spending_2026,128.7,EUR bn,BMF Sollbericht 2026,confirmed,Core budget + KTF + SVIK definition used by BMF
+fact,defence_budget_2026,82.7,EUR bn,Bundesregierung,confirmed,Defence ministry budget; special fund separate
+fact,ukraine_military_aid_2026,11.5,EUR bn,Bundesregierung,confirmed,"Budgeted military aid, not guaranteed future saving"
+fact,municipal_investment_backlog_2026,231.2,EUR bn,KfW Kommunalpanel,confirmed,Perceived/estimated municipal backlog
+fact,gas_consumption_2025,864,TWh,Bundesnetzagentur,confirmed,Total German gas consumption
+fact,industry_share_gas_consumption_2025,60,percent,Bundesnetzagentur,confirmed,Industry share of total gas consumption
+fact,norway_share_gas_imports_2025,44,percent,Bundesnetzagentur,confirmed,Share of German gas imports
+fact,non_household_gas_price_h1_2026,6.29,ct/kWh,Destatis,confirmed,Excludes VAT and deductible taxes per Destatis
+fact,non_household_gas_price_change_vs_h1_2021,106.2,percent,Destatis,confirmed,Not a causal attribution to Russia policy
+fact,grv_deficit_2026,11,EUR bn,Bundesbank,estimate,Expected deficit
+fact,sgb2_avg_payment_feb_2026,748,EUR/person/month,Bundestag / BA,confirmed,"Average payment claim, not marginal fiscal saving"
+scenario,russian_gas_share,20,percent of 2025 consumption,assumption,illustrative,Would require EU legal/policy change after peace
+scenario,delivered_price_advantage,20,EUR/MWh,assumption,illustrative,Not forecast
+calculation,gas_volume_scenario,172.8,TWh/year,864 TWh * 20%,derived,Illustrative
+calculation,buyer_energy_relief,3.456,EUR bn/year,172.8 TWh * 20 EUR/MWh,derived,Not federal budget revenue/saving
+scenario,post_peace_aid_reduction,50,percent,assumption,illustrative,Only after robust peace/security arrangement
+calculation,post_peace_federal_sensitivity,5.75,EUR bn/year,11.5 * 50%,derived,Not forecast; reconstruction/security may absorb funds
+scenario,additional_full_sgb2_exits,250000,persons,assumption,illustrative,Not empirically forecast
+calculation,gross_sgb2_transfer_sensitivity,2.244,EUR bn/year,250000 * 748 * 12,derived,Across public payers; before costs; not federal-only
