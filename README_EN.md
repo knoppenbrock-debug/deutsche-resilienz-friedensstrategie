@@ -1,6 +1,6 @@
 # German Resilience and Peace Strategy — English Summary
 
-**Discussion paper 2026 · Red-Team version 0.3 · 4 October 2026**
+**Discussion paper 2026 · Red-Team version 0.4 · 4 October 2026**
 
 > **Language note:** This is a Germany-focused policy model. The authoritative full version is written in German. This English summary is provided for international discussion, searchability and machine readability.  
 > **[Read the authoritative German version](README.md)**
@@ -11,7 +11,7 @@ Germany's security, foreign, energy, economic, migration, social and infrastruct
 
 The proposed strategic combination is:
 
-> **Defence capability + active German peace diplomacy within Europe + conditional economic incentives + energy diversification + faster labour-market integration + prioritisation of infrastructure and a sustainable welfare state.**
+> **Defence capability + European strategic agency + active German peace diplomacy within Europe + conditional economic incentives + energy diversification + faster labour-market integration + prioritisation of infrastructure and a sustainable welfare state.**
 
 Its central principle is **verification instead of trust**. Economic normalisation would follow verified de-escalation; it would not be granted in advance.
 
@@ -44,6 +44,16 @@ Success would not mean Germany single-handedly "making peace" or imposing an out
 > **Defence capability remains a means. Diplomacy and the capacity for peace are the goal.**
 
 Credible defence and deterrence remain necessary, but their purpose is to protect political room for manoeuvre. The strategic objective is not permanent war-readiness as a political identity, but **peace capability**: the capacity to protect interests, limit escalation, convene adversaries and help organise durable political settlements.
+
+#### Diplomatic buffer and strategic agency
+
+The model treats functioning diplomatic channels as a security asset in their own right. Relevant indicators include direct government and foreign-minister contacts, ambassador channels, military crisis communication and deconfliction, informal backchannels, and institutional diplomatic and cultural presence.
+
+The erosion of such channels does not prove that war is imminent. It does, however, reduce opportunities to clarify signals and contain incidents. Conversely, renewed contact is a counter-indicator, not proof that peace is near.
+
+The model also avoids treating "the West" as a single diplomatic actor. Differences between US-Russia and Germany/EU-Russia channels are worth monitoring because Europe needs the capacity to shape negotiations that affect its own security. Such channel asymmetry is **not** evidence of hostile US intent or German subordination.
+
+Strategic autonomy here does not mean decoupling from NATO or the United States. It means practical European **agency**: the ability to form an independent assessment, maintain its own crisis and diplomatic channels, diversify critical dependencies, build necessary capabilities and agree or disagree with allies on the basis of European interests.
 
 ### B — Energy: option rather than dependence
 
@@ -102,6 +112,14 @@ The paper does not claim that Ukraine aid causes Germany's welfare-state problem
 
 It also does not infer political control or corruption from contacts, networks or economic interests.
 
+## Cross-cutting escalation and evidence framework
+
+The core hypothesis is also tested with a public early-warning and falsification framework covering military/legal thresholds, the diplomatic buffer, rhetoric and miscalculation, critical-infrastructure and governance resilience, economic dependencies, strategic autonomy, and evidence/attribution discipline.
+
+The framework deliberately avoids a single composite "war-risk score". Different dimensions can move in opposite directions and should not be mathematically averaged away.
+
+See [ESCALATION_RADAR.md](ESCALATION_RADAR.md) and the machine-readable matrix [RADAR.csv](RADAR.csv).
+
 ## Strategic failure modes
 
 The model would fail if economic concessions strengthened Russian military capacity without durable de-escalation; if European partners did not support the framework; if Ukraine were pressured into an insecure settlement; if Germany recreated a critical energy dependence; if cheaper energy were overestimated while structural competitiveness problems remained unresolved; or if a ceasefire merely created time for renewed military escalation.
@@ -110,7 +128,7 @@ Verification, reversibility, diversification and credible deterrence are therefo
 
 ## Falsifiable core hypothesis
 
-> **Can a European strategy combining credible defence, active German mediation, verifiable step-by-step de-escalation, conditional economic normalisation and energy diversification reduce security risks while improving Germany's economic resilience — without imposing an insecure settlement on Ukraine or recreating strategic dependence on Russia?**
+> **Can a European strategy combining credible defence, strategic agency, active German mediation, verifiable step-by-step de-escalation, conditional economic normalisation and energy diversification reduce war and miscalculation risks while improving Germany's economic resilience — without imposing an insecure settlement on Ukraine or recreating strategic dependence on Russia?**
 
 The purpose of the project is to make this hypothesis easier to test, criticise and improve. It should be revised or rejected where evidence contradicts it.
 
@@ -119,6 +137,8 @@ The purpose of the project is to make this hypothesis easier to test, criticise 
 - **Authoritative German paper:** [README.md](README.md)
 - **Source register:** [SOURCES.md](SOURCES.md)
 - **Machine-readable facts, assumptions and calculations:** [MODEL.csv](MODEL.csv)
+- **Escalation, diplomacy and evidence framework:** [ESCALATION_RADAR.md](ESCALATION_RADAR.md)
+- **Machine-readable radar matrix:** [RADAR.csv](RADAR.csv)
 - **Revision history:** [CHANGELOG.md](CHANGELOG.md)
 - **Licence:** [LICENSE.md](LICENSE.md)
 - **Citation metadata:** [CITATION.cff](CITATION.cff)
