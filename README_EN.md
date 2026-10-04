@@ -1,6 +1,6 @@
 # German Resilience and Peace Strategy — English Summary
 
-**Discussion paper 2026 · Red-Team version 0.2 · 4 October 2026**
+**Discussion paper 2026 · Red-Team version 0.3 · 4 October 2026**
 
 > **Language note:** This is a Germany-focused policy model. The authoritative full version is written in German. This English summary is provided for international discussion, searchability and machine readability.  
 > **[Read the authoritative German version](README.md)**
@@ -11,7 +11,7 @@ Germany's security, foreign, energy, economic, migration, social and infrastruct
 
 The proposed strategic combination is:
 
-> **Credible deterrence + independent European diplomacy + conditional economic incentives + energy diversification + faster labour-market integration + prioritisation of infrastructure and a sustainable welfare state.**
+> **Defence capability + active German peace diplomacy within Europe + conditional economic incentives + energy diversification + faster labour-market integration + prioritisation of infrastructure and a sustainable welfare state.**
 
 Its central principle is **verification instead of trust**. Economic normalisation would follow verified de-escalation; it would not be granted in advance.
 
@@ -32,6 +32,18 @@ A possible step-by-step mechanism is:
 5. automatic reversal in the event of a serious breach.
 
 Possible reciprocal measures could include selected sanctions relief, trade, investment or — at a later stage — energy relations, subject to EU law and common European decisions.
+
+#### Germany's role: convene, mediate, represent interests
+
+Germany should take a more active foreign-policy role rather than waiting for other powers to shape the diplomatic settlement of a European war. It should work inside the European Union to build a coherent and actionable common position, bring the belligerents and the actors required for a durable security settlement to the negotiating table, and help organise a continuous European negotiating process.
+
+Germany cannot unilaterally claim to speak "for Europe". The model therefore envisages first building a robust political framework inside the EU and, where required, a common mandate. On that basis Germany could assume a leading mediating role externally — not as a supposedly neutral actor without interests, but as a European state that openly represents its legitimate security, economic and stability interests while seeking a sustainable accommodation of interests.
+
+Success would not mean Germany single-handedly "making peace" or imposing an outcome on the parties. It would mean **creating diplomatic capacity for action**: keeping channels open, clarifying interests and red lines, negotiating verifiable intermediate steps, and working with partners to create conditions under which the belligerents can agree to a durable end to the fighting.
+
+> **Defence capability remains a means. Diplomacy and the capacity for peace are the goal.**
+
+Credible defence and deterrence remain necessary, but their purpose is to protect political room for manoeuvre. The strategic objective is not permanent war-readiness as a political identity, but **peace capability**: the capacity to protect interests, limit escalation, convene adversaries and help organise durable political settlements.
 
 ### B — Energy: option rather than dependence
 
@@ -98,7 +110,7 @@ Verification, reversibility, diversification and credible deterrence are therefo
 
 ## Falsifiable core hypothesis
 
-> **Can a European strategy combining credible deterrence, independent diplomacy, verifiable step-by-step de-escalation, conditional economic normalisation and energy diversification reduce security risks while improving Germany's economic resilience — without imposing an insecure settlement on Ukraine or recreating strategic dependence on Russia?**
+> **Can a European strategy combining credible defence, active German mediation, verifiable step-by-step de-escalation, conditional economic normalisation and energy diversification reduce security risks while improving Germany's economic resilience — without imposing an insecure settlement on Ukraine or recreating strategic dependence on Russia?**
 
 The purpose of the project is to make this hypothesis easier to test, criticise and improve. It should be revised or rejected where evidence contradicts it.
 
