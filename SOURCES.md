@@ -67,6 +67,40 @@ Die Quellen sind nach Funktion aufgeführt. Primär- und amtliche Quellen werden
 - Reuters, 29.09.2026 — US-Beamter bestätigt Gespräche mit Kirill Dmitriev über Ukrainekrieg und mögliche künftige Energieinitiativen.  
   https://www.reuters.com/world/putin-envoy-us-officials-discussed-ukraine-war-energy-initiatives-us-official-2026-09-29/
 
+## Eskalations-, Diplomatie- und Autonomieradar
+
+- Grundgesetz, Art. 80a und Art. 115a — Spannungsfall und Verteidigungsfall als unterschiedliche verfassungsrechtliche Schwellen.  
+  https://www.gesetze-im-internet.de/gg/art_80a.html  
+  https://www.gesetze-im-internet.de/gg/art_115a.html
+- NATO, Nordatlantikvertrag, Art. 4 und Art. 5 — Konsultations- und Beistandsmechanismen; nicht miteinander gleichzusetzen.  
+  https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/1949/04/04/the-north-atlantic-treaty?selectedLocale=de
+- NATO, *Arms control, disarmament and non-proliferation* / Strategisches Konzept 2022 — strategische Stabilität als Zusammenspiel aus Abschreckung/Verteidigung, Rüstungskontrolle, Risikoreduktion, Transparenz und politischem Dialog.  
+  https://www.nato.int/en/what-we-do/wider-activities/arms-control-disarmament-and-non-proliferation
+- Auswärtiges Amt, Regierungspressekonferenz 02.09.2026 — deutsche Maßnahmen gegen das russische Generalkonsulat Bonn und das Russische Haus; rechtliche und zeitliche Differenzierung der Maßnahmen.  
+  https://www.auswaertiges-amt.de/de/newsroom/regierungspressekonferenz-2800710
+- Auswärtiges Amt, Regierungspressekonferenz 14.09.2026 — Folgen für die Goethe-Institute und Einordnung der russischen Reaktion.  
+  https://www.auswaertiges-amt.de/de/newsroom/regierungspressekonferenz-2802266
+- Reuters, 07.09.2026 — Russland schließt deutsches Generalkonsulat St. Petersburg als Gegenmaßnahme.  
+  https://www.reuters.com/world/europe/russia-closes-german-consulate-st-petersburg-after-drone-spat-2026-09-07/
+- Reuters, 27.09.2026 — Wadephul–Lawrow: erstes direktes Außenministergespräch seit Beginn der russischen Vollinvasion 2022.  
+  https://www.reuters.com/world/german-foreign-minister-says-lavrov-meeting-driven-by-russia-security-concerns-2026-09-27/
+- Reuters, 29.09.2026 — US-russische Gespräche über Ukrainekrieg und mögliche künftige Energieinitiativen.  
+  https://www.reuters.com/world/putin-envoy-us-officials-discussed-ukraine-war-energy-initiatives-us-official-2026-09-29/
+- Reuters, 28.09.2026 — russische Forderung nach Wiederaufnahme fachlicher US-russischer Rüstungskontrollgespräche; kein Beleg, dass solche Gespräche bereits wieder regulär laufen.  
+  https://www.reuters.com/world/asia-pacific/kremlin-says-russia-us-arms-control-talks-should-have-resumed-yesterday-2026-09-28/
+- Bundesregierung, E5 Leaders’ Statement, 24.06.2026 — stärkere europäische Verantwortung innerhalb einer starken NATO und enge transatlantische Koordinierung.  
+  https://www.bundesregierung.de/breg-de/suche/e5-leaders-statement-2444880
+- Europäisches Parlament, Entschließung vom 11.02.2026 zu strategischen Verteidigungs- und Sicherheitspartnerschaften — strategische Autonomie und Entscheidungsautonomie als komplementär zur NATO. Die Quelle belegt die Position des Europäischen Parlaments, nicht automatisch eine einheitliche Position aller EU-Mitgliedstaaten.  
+  https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AC_202603758
+- Rat der EU, SAFE — bis zu 150 Mrd. € EU-Darlehen für gemeinsame Verteidigungsbeschaffung; Einordnung europäischer Verteidigungsbereitschaft und strategischer Abhängigkeiten.  
+  https://www.consilium.europa.eu/en/policies/safe/
+- Reuters, 21.08.2026 — laufende strafrechtliche Nord-Stream-Ermittlungen und Festnahme eines ukrainischen Verdächtigen; daraus folgt keine automatische abschließende staatliche Attribution.  
+  https://www.reuters.com/world/ukrainian-nord-stream-blast-suspect-detained-croatia-2026-08-21/
+- Reuters, 08.09.2026 — Wadephul fordert mehr ukrainische Beschaffung bei deutschen Rüstungsunternehmen; Beleg für eine offen formulierte industriepolitische Interessenkomponente, nicht für Korruption oder Kriegsabsicht.  
+  https://www.reuters.com/world/german-foreign-minister-says-kyiv-should-buy-more-arms-german-companies-2026-09-08/
+
 ## Quellenregel
 
 Eine Quelle belegt nur die konkret bezeichnete Aussage. Regierungsquellen belegen zuverlässig, **was eine Regierung beschlossen, veröffentlicht oder behauptet hat**, aber nicht automatisch die Wahrheit strittiger Attributionen. Modellstudien werden nicht als Prognosen ausgegeben. Politische Optionen und Kausalhypothesen werden nicht als Fakten dargestellt.
+
+Die Plattform allein bestimmt nicht den Evidenzwert einer Quelle. Eine vollständige Originalrede, Pressekonferenz oder authentische Originalaufnahme kann auch auf YouTube oder einer anderen Videoplattform Primärquelle für das tatsächlich Gesagte bzw. Sichtbare sein; Kommentar- und Analysevideos sind Sekundärquellen. Geschnittene Clips werden auf Kontext und Vollständigkeit geprüft. Wiederholungen derselben Ursprungsaussage gelten nicht als unabhängige Bestätigungen.
