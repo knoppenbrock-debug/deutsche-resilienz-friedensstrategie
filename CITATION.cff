@@ -4,7 +4,7 @@ title: "Deutsche Resilienz- und Friedensstrategie: Diskussionspapier 2026"
 type: report
 authors:
   - family-names: "Knoppenbrock"
-version: "0.2"
+version: "0.3"
 date-released: "2026-10-04"
 license: "CC-BY-4.0"
 repository-code: "https://github.com/knoppenbrock-debug/deutsche-resilienz-friedensstrategie"
@@ -12,8 +12,8 @@ url: "https://github.com/knoppenbrock-debug/deutsche-resilienz-friedensstrategie
 abstract: >-
   A Germany-focused, evidence-based and falsifiable policy model linking
   security, diplomacy, energy, migration, social policy and infrastructure.
-  The model tests a strategy based on credible deterrence, independent
-  European diplomacy, verifiable de-escalation, conditional economic
+  The model tests a strategy based on credible defence, active
+  German mediation within European diplomacy, verifiable de-escalation, conditional economic
   normalisation, energy diversification and labour-market integration.
 keywords:
   - Germany
