@@ -1,5 +1,20 @@
 # Changelog
 
+## v0.4 — 2026-10-04 — Diplomatie-Puffer, strategische Autonomie und Eskalationsradar
+
+- Aus dem Deutschland-Eskalationsradar diejenigen Elemente übernommen, die unmittelbar zur öffentlichen Resilienz- und Friedensstrategie passen.
+- **Diplomatie-Puffer** als eigener Sicherheitsindikator ergänzt: direkte Regierungs-/Außenministerkontakte, Botschafterkanäle, Krisenkommunikation, Backchannels und institutionelle Präsenz.
+- Vergleich USA–Russland ↔ Deutschland/EU–Russland als Beobachtungsgröße aufgenommen, aber ausdrücklich von Motiv- oder Fremdsteuerungsbehauptungen getrennt.
+- **Strategische Handlungsautonomie** definiert als europäische Fähigkeit zu eigener Lagebeurteilung, eigenen Diplomatiekanälen, diversifizierten Abhängigkeiten und eigenständigen Entscheidungen innerhalb von NATO und transatlantischer Partnerschaft.
+- Öffentlichen [ESCALATION_RADAR.md](ESCALATION_RADAR.md) und maschinenlesbare [RADAR.csv](RADAR.csv) ergänzt.
+- Evidenzklassen A–F öffentlich dokumentiert und klargestellt, dass sie Evidenztypen und keine lineare Wahrheitswahrscheinlichkeit darstellen.
+- Attributionsdisziplin anhand aktueller Kontrollfälle geschärft: offizielle staatliche Attribution ≠ unabhängig öffentlich bewiesene Täterschaft.
+- Hallu-Korrektur zur deutsch-russischen institutionellen Ausdünnung im September 2026: Maßnahmen gegen das Russische Haus als gestuftes rechtliches Vorgehen, nicht als vereinfachte sofortige Komplettschließung beschrieben.
+- Militärische Aufrüstung, wirtschaftliche Gewinner und politische Netzwerke ausdrücklich von Motiv- und Kausalitätsbehauptungen getrennt.
+- Personenbezogene Netzwerkprofile und persönliche Familien-Schutzlogik bewusst nicht in den öffentlichen Strategiekern übernommen.
+- Quellenregister um Primärquellen und aktuelle Belege zu Diplomatie, strategischer Autonomie, NATO-Risikoreduktion und Attributionsfragen erweitert.
+- Englische Zusammenfassung und Kernhypothese entsprechend aktualisiert.
+
 ## v0.3 — 2026-10-04 — Deutschlands außenpolitische Rolle
 
 - Deutschlands aktive Rolle als Initiator und Vermittler eines europäischen Verhandlungsprozesses ergänzt.
