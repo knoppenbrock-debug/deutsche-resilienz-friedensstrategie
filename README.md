@@ -3,13 +3,13 @@
 > 🇬🇧 **English:** [Read the English summary](README_EN.md) — the German version below is the authoritative full text.
 
 **Stand:** 4. Oktober 2026  
-**Status:** Red-Team-Fassung 0.2 – Strategiehypothese, kein Parteiprogramm und keine Tatsachenbehauptung über Motive politischer Akteure.
+**Status:** Red-Team-Fassung 0.3 – Strategiehypothese, kein Parteiprogramm und keine Tatsachenbehauptung über Motive politischer Akteure.
 
 ## Kurzfassung
 
 Deutschland sollte Sicherheits-, Außen-, Energie-, Wirtschafts-, Migrations-, Sozial- und Infrastrukturpolitik stärker als ein zusammenhängendes System behandeln. Dieses Papier prüft eine alternative Strategie:
 
-> **Abschreckungsfähigkeit + eigenständige europäische Diplomatie + konditionierte wirtschaftliche Anreize + Energie-Diversifizierung + schnellere Erwerbsintegration + Priorisierung von Infrastruktur und tragfähigem Sozialstaat.**
+> **Verteidigungsfähigkeit + aktive deutsche Friedensdiplomatie in Europa + konditionierte wirtschaftliche Anreize + Energie-Diversifizierung + schnellere Erwerbsintegration + Priorisierung von Infrastruktur und tragfähigem Sozialstaat.**
 
 Der zentrale Mechanismus ist **Zug um Zug statt Vertrauen**: überprüfbare Friedensschritte würden klar definierte, reversible europäische Gegenleistungen auslösen. Wirtschaftliche Normalisierung wäre Ergebnis überprüfter Deeskalation, nicht Vorleistung.
 
@@ -46,6 +46,18 @@ Möglicher Mechanismus:
 5. automatische Rückfallklausel bei schwerem Vertragsbruch.
 
 Gegenleistungen könnten – abhängig von EU-Recht und gemeinsamem europäischem Beschluss – ausgewählte Sanktionserleichterungen, Handel, Investitionen oder später Energiebeziehungen umfassen.
+
+### Deutschlands Rolle: initiieren, vermitteln, Interessen vertreten
+
+Deutschland sollte seine außenpolitische Rolle aktiver wahrnehmen und nicht darauf warten, dass andere Mächte einen europäischen Krieg diplomatisch ordnen. Es sollte innerhalb der Europäischen Union auf eine gemeinsame, handlungsfähige Position hinwirken, die beteiligten Kriegsparteien und die für eine tragfähige Sicherheitsordnung notwendigen Akteure an einen Verhandlungstisch bringen und einen kontinuierlichen europäischen Verhandlungsprozess organisieren.
+
+Deutschland kann dabei nicht eigenmächtig „für Europa“ sprechen. Ziel wäre deshalb, zunächst innerhalb der EU einen belastbaren politischen Rahmen und – wo erforderlich – ein gemeinsames Mandat zu organisieren. Auf dieser Grundlage könnte Deutschland eine führende Vermittlerrolle nach außen übernehmen: nicht als neutraler Akteur ohne eigene Interessen, sondern als europäischer Staat, der seine legitimen Sicherheits-, Wirtschafts- und Stabilitätsinteressen offen vertritt und zugleich nach einem tragfähigen Interessenausgleich sucht.
+
+Erfolg bedeutet dabei nicht, dass Deutschland einen Frieden allein „macht“ oder den Kriegsparteien ein Ergebnis aufzwingt. Erfolg bedeutet, **diplomatische Handlungsfähigkeit herzustellen**: Gesprächskanäle offen zu halten, Interessen und rote Linien sichtbar zu machen, überprüfbare Zwischenschritte zu verhandeln und gemeinsam mit Partnern Bedingungen zu schaffen, unter denen die Kriegsparteien einem belastbaren Ende der Kampfhandlungen zustimmen können.
+
+> **Verteidigungsfähigkeit bleibt Mittel. Diplomatie und Friedensfähigkeit sind das Ziel.**
+
+Das Modell wendet sich damit gegen eine Außenpolitik, die militärische Handlungsfähigkeit zum Selbstzweck oder zum alleinigen Leitbild macht. Glaubwürdige Verteidigungsfähigkeit und Abschreckung bleiben notwendig, sollen aber Verhandlungsspielraum sichern. Deutschlands strategisches Ziel wäre nicht „Kriegstüchtigkeit“ als dauerhafter politischer Zustand, sondern **Friedensfähigkeit**: die Fähigkeit, eigene Interessen zu schützen, Eskalation zu begrenzen, Konfliktparteien zusammenzubringen und tragfähige politische Lösungen mitzuorganisieren.
 
 **Wichtiger Rechtscheck:** Seit 2026 gilt die EU-Verordnung 2026/261 zum Ausstieg aus russischem Gas. Sie sieht ein vollständiges Ende russischer LNG-Importe ab 2027 und russischer Pipelinegasimporte spätestens im Herbst 2027 vor. Eine spätere Wiederaufnahme als Friedensanreiz wäre daher keine heute verfügbare deutsche Einzelmaßnahme, sondern würde eine neue europäische Rechts- und Politikentscheidung erfordern.
 
@@ -154,7 +166,7 @@ Deshalb sind Verifikation, Reversibilität, Diversifizierung und glaubwürdige A
 
 ## 11. Falsifizierbare Kernhypothese
 
-> Kann eine europäisch abgestimmte, überprüfbare und reversible Kombination aus Abschreckung, eigenständiger Diplomatie und konditionierter wirtschaftlicher Normalisierung Deutschlands und Europas Kriegsrisiko senken und wirtschaftliche Handlungsfähigkeit erhöhen, ohne der Ukraine eine unsichere Friedensordnung aufzuzwingen oder neue strategische Abhängigkeiten zu schaffen?
+> Kann eine europäisch abgestimmte, überprüfbare und reversible Kombination aus Verteidigungsfähigkeit, aktiver deutscher Vermittlungsdiplomatie und konditionierter wirtschaftlicher Normalisierung Deutschlands und Europas Kriegsrisiko senken und wirtschaftliche Handlungsfähigkeit erhöhen, ohne der Ukraine eine unsichere Friedensordnung aufzuzwingen oder neue strategische Abhängigkeiten zu schaffen?
 
 Das Papier ist erfolgreich, wenn diese Hypothese mit Daten besser erklärt und getestet werden kann. Es ist zu ändern oder zu verwerfen, wenn Gegenbelege sie widerlegen.
 
