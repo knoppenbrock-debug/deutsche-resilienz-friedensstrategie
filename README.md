@@ -1,5 +1,7 @@
 # Deutsche Resilienz- und Friedensstrategie (Diskussionspapier 2026)
 
+> 🇬🇧 **English:** [Read the English summary](README_EN.md) — the German version below is the authoritative full text.
+
 **Stand:** 4. Oktober 2026  
 **Status:** Red-Team-Fassung 0.2 – Strategiehypothese, kein Parteiprogramm und keine Tatsachenbehauptung über Motive politischer Akteure.
 
