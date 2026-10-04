@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.3 — 2026-10-04 — Deutschlands außenpolitische Rolle
+
+- Deutschlands aktive Rolle als Initiator und Vermittler eines europäischen Verhandlungsprozesses ergänzt.
+- Klargestellt, dass Deutschland nicht eigenmächtig „für Europa“ sprechen kann, sondern innerhalb der EU einen gemeinsamen politischen Rahmen bzw. ein Mandat organisieren soll.
+- Deutsche Interessenvertretung und Vermittlung ausdrücklich miteinander verbunden: Vermittlung bedeutet nicht Interessenlosigkeit.
+- „Den Krieg beenden“ als Ziel präzisiert: Deutschland kann Frieden nicht allein herstellen, aber diplomatische Handlungsfähigkeit und Bedingungen für ein belastbares Ende der Kampfhandlungen organisieren.
+- Leitgedanke ergänzt: **„Verteidigungsfähigkeit bleibt Mittel. Diplomatie und Friedensfähigkeit sind das Ziel.“**
+- Englische Zusammenfassung und Kernhypothese entsprechend aktualisiert.
+
 ## v0.2 — 2026-10-04 — Red-Team-Fassung
 
 - EU-Verordnung 2026/261 ergänzt: russisches Gas kann unter geltendem EU-Recht nicht einfach als deutsche Einzelmaßnahme reaktiviert werden.
