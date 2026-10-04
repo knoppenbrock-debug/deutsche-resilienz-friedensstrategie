@@ -3,13 +3,13 @@
 > 🇬🇧 **English:** [Read the English summary](README_EN.md) — the German version below is the authoritative full text.
 
 **Stand:** 4. Oktober 2026  
-**Status:** Red-Team-Fassung 0.3 – Strategiehypothese, kein Parteiprogramm und keine Tatsachenbehauptung über Motive politischer Akteure.
+**Status:** Red-Team-Fassung 0.4 – Strategiehypothese, kein Parteiprogramm und keine Tatsachenbehauptung über Motive politischer Akteure.
 
 ## Kurzfassung
 
 Deutschland sollte Sicherheits-, Außen-, Energie-, Wirtschafts-, Migrations-, Sozial- und Infrastrukturpolitik stärker als ein zusammenhängendes System behandeln. Dieses Papier prüft eine alternative Strategie:
 
-> **Verteidigungsfähigkeit + aktive deutsche Friedensdiplomatie in Europa + konditionierte wirtschaftliche Anreize + Energie-Diversifizierung + schnellere Erwerbsintegration + Priorisierung von Infrastruktur und tragfähigem Sozialstaat.**
+> **Verteidigungsfähigkeit + strategische europäische Handlungsautonomie + aktive deutsche Friedensdiplomatie in Europa + konditionierte wirtschaftliche Anreize + Energie-Diversifizierung + schnellere Erwerbsintegration + Priorisierung von Infrastruktur und tragfähigem Sozialstaat.**
 
 Der zentrale Mechanismus ist **Zug um Zug statt Vertrauen**: überprüfbare Friedensschritte würden klar definierte, reversible europäische Gegenleistungen auslösen. Wirtschaftliche Normalisierung wäre Ergebnis überprüfter Deeskalation, nicht Vorleistung.
 
@@ -58,6 +58,26 @@ Erfolg bedeutet dabei nicht, dass Deutschland einen Frieden allein „macht“ o
 > **Verteidigungsfähigkeit bleibt Mittel. Diplomatie und Friedensfähigkeit sind das Ziel.**
 
 Das Modell wendet sich damit gegen eine Außenpolitik, die militärische Handlungsfähigkeit zum Selbstzweck oder zum alleinigen Leitbild macht. Glaubwürdige Verteidigungsfähigkeit und Abschreckung bleiben notwendig, sollen aber Verhandlungsspielraum sichern. Deutschlands strategisches Ziel wäre nicht „Kriegstüchtigkeit“ als dauerhafter politischer Zustand, sondern **Friedensfähigkeit**: die Fähigkeit, eigene Interessen zu schützen, Eskalation zu begrenzen, Konfliktparteien zusammenzubringen und tragfähige politische Lösungen mitzuorganisieren.
+
+### Diplomatie-Puffer als Teil der Sicherheitsarchitektur
+
+Das Modell behandelt funktionsfähige Gesprächskanäle selbst als strategische Ressource. Beobachtbar sind insbesondere direkte Regierungs- und Außenministerkontakte, Botschafterkanäle, militärische Krisenkommunikation und Deconfliction, informelle Backchannels sowie die institutionelle diplomatische und kulturelle Präsenz.
+
+Der Abbau solcher Kanäle beweist keinen bevorstehenden Krieg. Er reduziert jedoch Möglichkeiten, Missverständnisse zu korrigieren, Signale einzuordnen und Zwischenfälle politisch einzuhegen. Umgekehrt ist die Wiederaufnahme direkter Gespräche ein Gegenindikator, aber noch kein Friedensbeweis.
+
+Dabei wird „der Westen“ nicht als automatisch einheitlicher diplomatischer Akteur behandelt. Wenn die USA eigene politische, sicherheitspolitische oder wirtschaftliche Gesprächskanäle mit Russland offenhalten oder ausbauen, während Deutschland bzw. die EU weniger direkte Kanäle besitzen, ist das ein **strategischer Beobachtungswert**: Europa sollte dann besonders darauf achten, eigene diplomatische Handlungsfähigkeit zu erhalten. Eine solche Kanal-Asymmetrie beweist weder falsche Motive Washingtons noch deutsche Fremdsteuerung.
+
+### Strategische Handlungsautonomie ohne Entkopplung
+
+Strategische Autonomie bedeutet in diesem Papier **nicht** Abkehr von NATO oder USA. Gemeint ist die praktische Fähigkeit Deutschlands und Europas,
+
+- eine eigene Lagebeurteilung und gemeinsame europäische Position zu entwickeln,
+- eigene Krisen- und Diplomatiekanäle zu unterhalten,
+- kritische Abhängigkeiten zu diversifizieren,
+- notwendige militärische und zivile Fähigkeiten selbst bereitstellen zu können und
+- Verbündeten auf Grundlage eigener Interessen sowohl zustimmen als auch widersprechen zu können.
+
+Bündnisabstimmung, enge transatlantische Kooperation oder zeitliche Nähe von Entscheidungen sind für sich genommen kein Beleg für Fremdsteuerung. Umgekehrt sollte eine ernsthafte Autonomieanalyse dokumentierten externen Druck, deutsche/europäische Entscheidungsprozesse, tatsächliche Kursänderungen und Gegenbeispiele gemeinsam betrachten.
 
 **Wichtiger Rechtscheck:** Seit 2026 gilt die EU-Verordnung 2026/261 zum Ausstieg aus russischem Gas. Sie sieht ein vollständiges Ende russischer LNG-Importe ab 2027 und russischer Pipelinegasimporte spätestens im Herbst 2027 vor. Eine spätere Wiederaufnahme als Friedensanreiz wäre daher keine heute verfügbare deutsche Einzelmaßnahme, sondern würde eine neue europäische Rechts- und Politikentscheidung erfordern.
 
@@ -133,7 +153,15 @@ Das Papier weist drei Größen **getrennt** aus:
 
 Diese Zahlen dürfen **nicht** zu einer einzigen „Einsparsumme“ addiert werden.
 
-## 9. Strategische Risiken des Konzepts
+## 9. Eskalations-, Diplomatie- und Resilienzradar
+
+Die Kernhypothese wird zusätzlich mit einem öffentlichen Frühwarn- und Falsifikationsrahmen überprüft. Er trennt harte militärisch-rechtliche Schwellen, den **Diplomatie-Puffer**, Rhetorik/Fehlkalkulation, KRITIS- und Governance-Resilienz, wirtschaftliche Abhängigkeiten, strategische Autonomie sowie Evidenz- und Attributionsfragen.
+
+Der Radar erzeugt bewusst **keinen zusammengesetzten „Kriegsrisiko-Score“**. Einzelindikatoren können unterschiedlich verlaufen; ein hoher Wert in einer Dimension darf nicht durch einen niedrigen Wert in einer anderen mathematisch „weggeglichen“ werden.
+
+Siehe [ESCALATION_RADAR.md](ESCALATION_RADAR.md) und die maschinenlesbare Matrix [RADAR.csv](RADAR.csv).
+
+## 10. Strategische Risiken des Konzepts
 
 Das Modell kann scheitern, wenn:
 - Russland wirtschaftliche Zugeständnisse erhält, ohne dauerhaft militärisch einzulenken;
@@ -146,7 +174,7 @@ Das Modell kann scheitern, wenn:
 
 Deshalb sind Verifikation, Reversibilität, Diversifizierung und glaubwürdige Abschreckung keine Zusätze, sondern Voraussetzungen des Modells.
 
-## 10. Hallu-Check – Ergebnis
+## 11. Hallu-Check – Ergebnis
 
 | Behauptung | Ergebnis |
 |---|---|
@@ -163,16 +191,20 @@ Deshalb sind Verifikation, Reversibilität, Diversifizierung und glaubwürdige A
 | USA und Russland führen Gespräche mit Energie-/Wirtschaftskomponente | **belegt** |
 | Frieden setzt automatisch 11,5 Mrd. € frei | **falsch** |
 | konditionierte wirtschaftliche Normalisierung könnte Verhandlungsanreize schaffen | **Strategiehypothese, nicht bewiesene Wirkung** |
+| weniger deutsch/europäisch-russische Gesprächskanäle beweisen unmittelbar höhere Kriegswahrscheinlichkeit | **nein; sinnvoller Risikoindikator, aber kein kausaler Einzelbeweis** |
+| engere US-russische Gesprächskanäle beweisen eine gegen Deutschland gerichtete US-Strategie | **nicht belegt** |
+| enge NATO-/USA-Abstimmung beweist deutsche Fremdsteuerung | **nicht belegt; konkrete Wirkungskette erforderlich** |
+| wirtschaftliche Gewinner von Aufrüstung beweisen eine politische Kriegsabsicht | **nein; struktureller Anreiz ist nicht Motiv- oder Kausalitätsbeweis** |
 
-## 11. Falsifizierbare Kernhypothese
+## 12. Falsifizierbare Kernhypothese
 
-> Kann eine europäisch abgestimmte, überprüfbare und reversible Kombination aus Verteidigungsfähigkeit, aktiver deutscher Vermittlungsdiplomatie und konditionierter wirtschaftlicher Normalisierung Deutschlands und Europas Kriegsrisiko senken und wirtschaftliche Handlungsfähigkeit erhöhen, ohne der Ukraine eine unsichere Friedensordnung aufzuzwingen oder neue strategische Abhängigkeiten zu schaffen?
+> Kann eine europäisch abgestimmte, überprüfbare und reversible Kombination aus Verteidigungsfähigkeit, strategischer Handlungsautonomie, aktiver deutscher Vermittlungsdiplomatie und konditionierter wirtschaftlicher Normalisierung Deutschlands und Europas Kriegs- und Fehlkalkulationsrisiken senken und wirtschaftliche Handlungsfähigkeit erhöhen, ohne der Ukraine eine unsichere Friedensordnung aufzuzwingen oder neue strategische Abhängigkeiten zu schaffen?
 
 Das Papier ist erfolgreich, wenn diese Hypothese mit Daten besser erklärt und getestet werden kann. Es ist zu ändern oder zu verwerfen, wenn Gegenbelege sie widerlegen.
 
-## 12. Transparenz
+## 13. Transparenz
 
-Dieses Dokument ist ein Diskussions- und Modellpapier. Fakten, Modellannahmen und normative Politikoptionen werden getrennt. Zahlen sollen über [SOURCES.md](SOURCES.md) und [MODEL.csv](MODEL.csv) nachvollziehbar sein. Fehlerkorrekturen sind ausdrücklich erwünscht.
+Dieses Dokument ist ein Diskussions- und Modellpapier. Fakten, Modellannahmen und normative Politikoptionen werden getrennt. Zahlen sollen über [SOURCES.md](SOURCES.md) und [MODEL.csv](MODEL.csv) nachvollziehbar sein. Der Eskalations- und Evidenzrahmen steht in [ESCALATION_RADAR.md](ESCALATION_RADAR.md) und [RADAR.csv](RADAR.csv). Fehlerkorrekturen sind ausdrücklich erwünscht.
 
 Siehe außerdem [CHANGELOG.md](CHANGELOG.md) und [LICENSE.md](LICENSE.md).
 
